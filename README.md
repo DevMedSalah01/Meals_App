@@ -1,4 +1,4 @@
-# meals App
+# meals App Done and Working
 
 Meals App is a delightful Flutter application that offers navigation functionality to explore various cuisines from around the world. With Meals App, users can discover and prepare a wide range of dishes, explore different cultures, apply filters to find specific recipes, and mark their favorite meals for quick access.
 
